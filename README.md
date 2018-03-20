@@ -16,6 +16,6 @@ allprojects {
 ## Step 2. Add the dependency
 ```
 dependencies {
-    compile 'com.github.OfficialKeen:Fonts:1.0.0'
+    implementation 'com.github.OfficialKeen:Fonts:1.0.0'
 }
 ```

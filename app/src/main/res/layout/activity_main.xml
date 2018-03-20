@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="keen.fonts.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/alex_brush_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/aller_bd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/allura_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/arizonia_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/cac_champagne"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/caviar_dreams"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/caviar_dreams_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/caviar_dreams_bolditalic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/caviar_dreams_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/chunk_five"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/colab_bol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/colab_lig"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/colab_med"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/colab_reg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/colab_thi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/dancing_script_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/droid_sans"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/droid_sans_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/grand_hotel_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/great_vibes_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/helvetica_neu_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/helvetica_neue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/helvetica_neue_ight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/helvetica_neue_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_bold_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_light"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_light_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_semi_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_semi_bold_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_thin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/josefin_sans_thin_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/kaushan_script_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/lato_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/maven_pro_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/maven_pro_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/maven_pro_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/open_sans_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/open_sans_extra_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/open_sans_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/opensans_semibold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrich_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsans_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsans_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsansdashed_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsans_heavy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsans_light"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsans_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ostrichsansrounded_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/playfairdisplay_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/playfairdisplay_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/playfairdisplay_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_bolditalic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_dash"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_light"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_lightitalic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/quicksand_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/raleway_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_light"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/roboto_thin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ubuntu_l"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ubuntu_m"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/ubuntu_r"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_oblique"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_oblique_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_oblique_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_oblique_semibold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_oblique_ultrabold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_semibold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/walkway_ultrabold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Android Studio"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
